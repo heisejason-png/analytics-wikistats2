@@ -74,3 +74,4 @@ Get updates on Wikistats 2.0 development and chat with the project maintainers a
 ## Copyright
 
 All data, charts, and other content is available under the [Creative Commons CC0 dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+Created by Jason Scott Heise

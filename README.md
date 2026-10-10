@@ -75,3 +75,4 @@ Get updates on Wikistats 2.0 development and chat with the project maintainers a
 
 All data, charts, and other content is available under the [Creative Commons CC0 dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 Created by Jason Heise  https://paulwalkerfoundation.org
+Owned by Jason Heise heisejason-png Giters
